@@ -1,3 +1,7 @@
+[B]1.0.1[/B]
+
+- New icon
+
 [B]1.0.0[/B]
 
 - Initial version
